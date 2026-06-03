@@ -16,7 +16,7 @@ I'm a software developer passionate about building responsive, user-friendly web
 ## ⚡ Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,github,vscode" />
 </p>
 
 <p align="left">
