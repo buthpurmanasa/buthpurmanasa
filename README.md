@@ -12,9 +12,7 @@ I'm a software developer passionate about building responsive, user-friendly web
 * 🤝 Enjoy collaborating on innovative projects
 * 📚 Interested in UI/UX, performance optimization, and clean code
 
-## 🛠️ Tech Stack
 
-### Frontend Development
 ## ⚡ Tech Stack
 
 <p align="left">
@@ -25,10 +23,7 @@ I'm a software developer passionate about building responsive, user-friendly web
   <img src="https://img.shields.io/badge/React_Hook_Form-EC5990?style=for-the-badge&logo=reacthookform&logoColor=white" />
 </p>
 
-
 ### Styling & UI
-
-
 
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge\&logo=tailwind-css\&logoColor=white)
 
@@ -37,8 +32,6 @@ I'm a software developer passionate about building responsive, user-friendly web
 
 
 ### Tools & Version Control
-
-
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
 
