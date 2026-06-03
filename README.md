@@ -16,6 +16,9 @@ I'm a software developer passionate about building responsive, user-friendly web
 
 ### Frontend Development
 
+<p align="left">
+
+  
 
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
@@ -34,7 +37,7 @@ I'm a software developer passionate about building responsive, user-friendly web
 
 ![React Hook Form](https://img.shields.io/badge/React_Hook_Form-EC5990?style=for-the-badge\&logo=reacthookform\&logoColor=white)
 
-
+</p>
 
 ### Styling & UI
 
