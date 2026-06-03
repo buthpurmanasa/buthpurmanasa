@@ -39,12 +39,6 @@ I'm a software developer passionate about building responsive, user-friendly web
 * React Query 
 * Context API
 
-### Tools & Platforms
-
-* Git & GitHub
-* VS Code
-* npm
-* Vite
 
 ## 📈 What I'm Working On
 
